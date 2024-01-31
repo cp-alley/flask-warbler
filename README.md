@@ -2,7 +2,7 @@
 
 A social network site like Twitter built with Python, Flask, and PostgreSQL.
 
-[Live Demo](https://warbler-r33-loc2.onrender.com/)
+[Live Demo](https://cpa-warbler.onrender.com/)
 
 ## Run Locally
 
